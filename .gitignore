@@ -2,5 +2,7 @@ api keys.txt
 venv
 wandb
 .ipynb_checkpoints
-.vscode
 Notebooks/.ipynb_checkpoints/
+Notebooks/lora_tiny_output/
+config.bat
+node_modules
