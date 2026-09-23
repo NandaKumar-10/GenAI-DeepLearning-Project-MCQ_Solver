@@ -2,7 +2,6 @@ api keys.txt
 venv
 wandb
 .ipynb_checkpoints
-.vscode
 Notebooks/.ipynb_checkpoints/
 Notebooks/lora_tiny_output/
 
@@ -14,3 +13,5 @@ __pycache__/
 *.pyc
 
 rag_artifacts/
+config.bat
+node_modules

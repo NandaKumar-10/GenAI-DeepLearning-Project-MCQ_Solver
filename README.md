@@ -8,7 +8,7 @@ This project focuses on solving a Multiple Choice Question (MCQ) Answering task 
 
 A live, interactive web application has been deployed using Streamlit, allowing users to input their own MCQs and get real-time predictions from the model.
 
-**[👉 Click here to try the live application!](YOUR_STREAMLIT_LINK_HERE)** <!-- REPLACE 'YOUR_STREAMLIT_LINK_HERE' WITH YOUR ACTUAL DEPLOYMENT LINK -->
+**[👉 Click here to try the live application!](https://lstmattention-bbee7rdgexgjl2ihdvkohp.streamlit.app/)** <!-- REPLACE 'YOUR_STREAMLIT_LINK_HERE' WITH YOUR ACTUAL DEPLOYMENT LINK -->
 
 ## 📁 Directory Structure
 
